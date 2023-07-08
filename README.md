@@ -19,12 +19,6 @@ hope you will use it and liked it.
 - CSS 
 - Javascript
 
-### 🔰 Installation 
-
-- Download or clone this repository.
-```
-git clone https://github.com/rohanmittal163/music-player.git
-```
 ## ❤ Contribute
 This project is open source and we are happy to receive contributions. If you would like to contribute, please follow these steps:
 
