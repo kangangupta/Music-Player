@@ -236,7 +236,6 @@ queue.onclick = () => {
 closeList.onclick = () => {
 	musicList.classList.remove('show');
 };
-
 download.onclick = () => {
 	const link = document.createElement('a');
 	link.download = `${allMusic[musicIndex - 1].name}.mp3`;
