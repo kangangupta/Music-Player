@@ -182,15 +182,6 @@ a {
 .music-list ul::-webkit-scrollbar {
 	width: 0px;
 }
-.music-list ul::-webkit-scrollbar-track {
-	background: white;
-	border-radius: 20px;
-}
-.music-list ul::-webkit-scrollbar-thumb {
-	background: #a9a9a9;
-	border-radius: 20px;
-}
-
 .music-list .l-header {
 	width: 100%;
 	display: flex;
